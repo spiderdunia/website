@@ -23,7 +23,9 @@
 define( 'DB_NAME', 'u717168193_sdmain' );
 
 /** Database username */
-define( 'DB_USER', 'u717168193_sdmain' );
+
+//define( 'DB_USER', 'u717168193_sdmain' );
+define( 'DB_USER', 'u717168193_sdmain1' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Beaucode@2023%' );
