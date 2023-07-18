@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+	.enweby-fullscreen-video-background-wrapper video {
+	width: 100%; height: 100vh; top: 0;left: 0;
+	}
+	.enweby-fullscreen-video-background-wrapper {
+	/* Telling our absolute positioned video to be relative to this element */
+	position: absolute;
+	height: 100vh;
+	width:100%;
+	z-index:1;
+	/* Will not allow the video to overflow the container */
+	overflow: hidden;
+	/* Centering the container's content vertically and horizontally */
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	}

@@ -1,0 +1,5 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.fb_bg_image, .fb_bg_video, .fb_bg_color, .fb_video_background_position, .fb_video_background_fit, .fb_background_size, .fb_background_position, .fb_background_attachment, .fb_page_field_id, .fb_post_field_id{ display:none; }
